@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf14cf22-4548-4b0e-86f0-72b02fa800ea" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/mvnw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/mvnw.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/java/com/yuwhuawang/Application.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/java/com/yuwhuawang/MvcConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/java/com/yuwhuawang/WebSecurityConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/java/com/yuwhuawang/controller/UserController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/java/com/yuwhuawang/domain/UserVo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/java/com/yuwhuawang/mapper/UserMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/java/com/yuwhuawang/services/UserService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/application.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/mapper/UserMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/schema.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/css/admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/css/amazeui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/css/amazeui.flat.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/css/amazeui.flat.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/css/amazeui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/app-icon72x72@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/admin-chrome.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/admin-firefox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/admin-ie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/admin-opera.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/admin-safari.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/adminPage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/blogPage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/landing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/landingPage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/loginPage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/examples/sidebarPage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/i/startup-640x1096.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/js/amazeui.ie8polyfill.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/js/amazeui.ie8polyfill.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/js/amazeui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/js/amazeui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/js/amazeui.widgets.helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/js/amazeui.widgets.helper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/js/handlebars.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/static/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/templates/hello.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/templates/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootvsite/src/main/resources/templates/login.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="infoThus.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,7 +24,7 @@
     <favorites_list name="infoThus" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springbootvsite" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -158,20 +109,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="springbootvsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="infoThus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -182,7 +119,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
