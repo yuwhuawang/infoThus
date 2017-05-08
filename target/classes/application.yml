@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    url: jdbc:mysql://127.0.0.1:3306/vsite
+    username: root
+    password: wyhwyh22
+    driver-class-name: com.mysql.jdbc.Driver
+    hikari:
+      idle-timeout: 10000
+mybatis:
+  mapperLocations: classpath:mapper/*.xml
+  type-aliases-package: com.yuwhuawang.domain
+
