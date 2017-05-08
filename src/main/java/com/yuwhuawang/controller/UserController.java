@@ -1,5 +1,6 @@
 package com.yuwhuawang.controller;
 
+import com.yuwhuawang.DTO.LoginDto;
 import com.yuwhuawang.domain.UserVo;
 import com.yuwhuawang.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,7 +10,9 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by yuwhuawang on 17/5/4.
@@ -30,11 +33,22 @@ public class UserController {
         return "user/login";
     }
 
-    @PostMapping(value = "/login")
-    public String loginAction(Model model,
-                              @ModelAttribute(value = "user") UserVo userVo,
-                              HttpServletResponse response,
+
+    @PostMapping(value="/login")
+    public String loginAction(
+                                LoginDto user,
                               HttpSession session) {
-        session.setAttribute();
+        if (!"123456".equals(user.getPassword())) {
+            return "redirect:/login";
+        }
+        session.setAttribute("test", user.getAccount());
+        return "redirect:/";
+
+    }
+
+    @GetMapping(value = "/logout")
+    public String logout(HttpSession session) {
+        session.removeAttribute("test");
+        return "redirect:/login";
     }
 }
